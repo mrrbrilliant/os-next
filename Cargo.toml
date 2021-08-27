@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "framework/webview",
+    "apps/desktop",
+    "web/desktop-ui"
+]
+# exclude = ["web/desktop"]
